@@ -815,7 +815,7 @@ form label {
 }
 .gtco-tabs .gtco-tab-nav li.active a {
   background: #fff;
-  color: #52d3aa;
+  color: #231f20;
 }
 .gtco-tabs .gtco-tab-content-wrap {
   clear: both;
@@ -896,7 +896,7 @@ form label {
 #gtco-started .btn {
   height: 54px;
   border: none !important;
-  background: #52d3aa;
+  background: #231f20;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -966,7 +966,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #52d3aa;
+  border: 2px solid #231f20;
 }
 
 #gtco-offcanvas {
@@ -1223,9 +1223,9 @@ form label {
 }
 
 .btn-primary {
-  background: #52d3aa;
+  background: #231f20;
   color: #fff;
-  border: 2px solid #52d3aa;
+  border: 2px solid #231f20;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #66d8b4 !important;
@@ -1233,11 +1233,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #52d3aa;
-  border: 2px solid #52d3aa;
+  color: #231f20;
+  border: 2px solid #231f20;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #52d3aa;
+  background: #231f20;
   color: #fff;
 }
 
@@ -1367,7 +1367,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #52d3aa;
+  border-color: #231f20;
 }
 
 .row-pb-md {
