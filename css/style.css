@@ -70,17 +70,17 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 ::-webkit-selection {
-  color: #fff;
+  color: #fff9d5;
   background: #231f20;
 }
 
 ::-moz-selection {
-  color: #fff;
+  color: #fff9d5;
   background: #231f20;
 }
 
 ::selection {
-  color: #fff;
+  color: #fff9d5;
   background: #231f20;
 }
 
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color: #fff9d5;
 }
 @media screen and (max-width: 768px) {
   .gtco-nav .menu-1, .gtco-nav .menu-2 {
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #fff;
+  background: #fff9d5;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #fff;
+  border-bottom-color: #fff9d5;
   border-width: 8px;
   margin-left: -8px;
 }
@@ -201,13 +201,13 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 .gtco-nav ul li.has-dropdown:hover a, .gtco-nav ul li.has-dropdown:focus a {
-  color: #fff;
+  color: #fff9d5;
 }
 .gtco-nav ul li.btn-cta a {
   color: #231f20;
 }
 .gtco-nav ul li.btn-cta a span {
-  background: #fff;
+  background: #fff9d5;
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
 .gtco-nav ul li.active > a {
-  color: #fff !important;
+  color: #fff9d5 !important;
 }
 
 #gtco-header,
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 90px;
   display: table;
   text-align: center;
-  background: #fff;
+  background: #fff9d5;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
@@ -523,7 +523,7 @@ form label {
 #gtco-counter .display-tc .btn,
 .gtco-cover .display-tc .btn {
   padding: 15px 30px;
-  background: #fff !important;
+  background: #fff9d5 !important;
   color: #231f20;
   border: none !important;
   font-size: 18px;
@@ -532,7 +532,7 @@ form label {
 #gtco-header .display-tc .btn:hover,
 #gtco-counter .display-tc .btn:hover,
 .gtco-cover .display-tc .btn:hover {
-  background: #fff !important;
+  background: #fff9d5 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -544,7 +544,7 @@ form label {
 #gtco-counter .counter {
   font-size: 50px;
   margin-bottom: 10px;
-  color: #fff;
+  color: #fff9d5;
   font-weight: 100;
   display: block;
 }
@@ -662,7 +662,7 @@ form label {
   margin-right: 5%;
   width: 54px;
   height: 54px;
-  background: #fff;
+  background: #fff9d5;
   display: table;
   text-align: center;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
@@ -814,7 +814,7 @@ form label {
   color: #4d4d4d;
 }
 .gtco-tabs .gtco-tab-nav li.active a {
-  background: #fff;
+  background: #fff9d5;
   color: #231f20;
 }
 .gtco-tabs .gtco-tab-content-wrap {
@@ -864,12 +864,12 @@ form label {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4cc1bd', endColorstr='#3f95ea', GradientType=1 );
 }
 #gtco-started .gtco-heading h2 {
-  color: #fff;
+  color: #fff9d5;
 }
 #gtco-started .form-control {
   background: rgba(255, 255, 255, 0.2);
   border: none !important;
-  color: #fff;
+  color: #fff9d5;
   font-size: 16px !important;
   width: 100%;
   -webkit-transition: 0.5s;
@@ -877,18 +877,18 @@ form label {
   transition: 0.5s;
 }
 #gtco-started .form-control::-webkit-input-placeholder {
-  color: #fff;
+  color: #fff9d5;
 }
 #gtco-started .form-control:-moz-placeholder {
   /* Firefox 18- */
-  color: #fff;
+  color: #fff9d5;
 }
 #gtco-started .form-control::-moz-placeholder {
   /* Firefox 19+ */
-  color: #fff;
+  color: #fff9d5;
 }
 #gtco-started .form-control:-ms-input-placeholder {
-  color: #fff;
+  color: #fff9d5;
 }
 #gtco-started .form-control:focus {
   background: rgba(255, 255, 255, 0.3);
@@ -897,7 +897,7 @@ form label {
   height: 54px;
   border: none !important;
   background: #231f20;
-  color: #fff;
+  color: #fff9d5;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1076,7 +1076,7 @@ form label {
   height: 50px;
   display: table;
   background: rgba(0, 0, 0, 0.5);
-  color: #fff;
+  color: #fff9d5;
   text-align: center;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -1128,11 +1128,11 @@ form label {
   transition: all .2s ease-out;
 }
 .gtco-nav-toggle.gtco-nav-white > i {
-  color: #fff;
-  background: #fff;
+  color: #fff9d5;
+  background: #fff9d5;
 }
 .gtco-nav-toggle.gtco-nav-white > i::before, .gtco-nav-toggle.gtco-nav-white > i::after {
-  background: #fff;
+  background: #fff9d5;
 }
 
 .gtco-nav-toggle i::before {
@@ -1224,7 +1224,7 @@ form label {
 
 .btn-primary {
   background: #231f20;
-  color: #fff;
+  color: #fff9d5;
   border: 2px solid #231f20;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -1238,12 +1238,12 @@ form label {
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
   background: #231f20;
-  color: #fff;
+  color: #fff9d5;
 }
 
 .btn-success {
   background: #5cb85c;
-  color: #fff;
+  color: #fff9d5;
   border: 2px solid #5cb85c;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
@@ -1257,12 +1257,12 @@ form label {
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
   background: #5cb85c;
-  color: #fff;
+  color: #fff9d5;
 }
 
 .btn-info {
   background: #5bc0de;
-  color: #fff;
+  color: #fff9d5;
   border: 2px solid #5bc0de;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
@@ -1276,12 +1276,12 @@ form label {
 }
 .btn-info.btn-outline:hover, .btn-info.btn-outline:focus, .btn-info.btn-outline:active {
   background: #5bc0de;
-  color: #fff;
+  color: #fff9d5;
 }
 
 .btn-warning {
   background: #f0ad4e;
-  color: #fff;
+  color: #fff9d5;
   border: 2px solid #f0ad4e;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
@@ -1295,12 +1295,12 @@ form label {
 }
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
   background: #f0ad4e;
-  color: #fff;
+  color: #fff9d5;
 }
 
 .btn-danger {
   background: #d9534f;
-  color: #fff;
+  color: #fff9d5;
   border: 2px solid #d9534f;
 }
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active {
@@ -1314,7 +1314,7 @@ form label {
 }
 .btn-danger.btn-outline:hover, .btn-danger.btn-outline:focus, .btn-danger.btn-outline:active {
   background: #d9534f;
-  color: #fff;
+  color: #fff9d5;
 }
 
 .btn-outline {
@@ -1350,7 +1350,7 @@ form label {
   padding-right: 50px;
 }
 .btn.with-arrow:hover i {
-  color: #fff;
+  color: #fff9d5;
   right: 18px;
   visibility: visible;
   opacity: 1;
@@ -1385,7 +1385,7 @@ form label {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url(../images/loader.gif) center no-repeat #fff;
+  background: url(../images/loader.gif) center no-repeat #fff9d5;
 }
 
 .js .animate-box {
