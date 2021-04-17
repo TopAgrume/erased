@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color: #231f20;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: #231f20;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #231f20;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #231f20;
 }
 
 ::selection {
   color: #fff;
-  background: #52d3aa;
+  background: #231f20;
 }
 
 .gtco-container {
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #52d3aa;
+  color: #231f20;
 }
 .gtco-nav ul li.btn-cta a span {
   background: #fff;
@@ -446,7 +446,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .gtco-contact-info ul li:before {
-  color: #52d3aa;
+  color: #231f20;
   position: absolute;
   left: 0;
   top: .05em;
@@ -524,7 +524,7 @@ form label {
 .gtco-cover .display-tc .btn {
   padding: 15px 30px;
   background: #fff !important;
-  color: #52d3aa;
+  color: #231f20;
   border: none !important;
   font-size: 18px;
   text-transform: uppercase;
